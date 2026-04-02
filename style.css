@@ -2,7 +2,7 @@
     color: #e61057;
     font-family: 'Arial';
     font-size: 14px;
-    font-weight: bold;
+    font-weight: bold
 }
 
 a {
@@ -21,3 +21,31 @@ a:visited {
 a:visited:hover {
     color: #e61057; /* rosa cuando pasen el mouse sobre un link ya visitado */
 }
+
+.QuiSom {
+    color:#020202;
+    font-family: 'Arial';
+    font-size: 14px;
+}
+
+.RosFue {
+    color:#E91E63;
+    font-family: 'Arial';
+    font-size: 14px;
+    font-weight: bold
+}
+
+.Naranja {
+    color:#f57d1a;
+    font-family: 'Arial';
+    font-size: 14px
+}
+
+.id {
+    color:#FF825C;
+    font-family: 'Arial';
+    font-size: 14px;
+    font-weight: bold
+
+}
+
