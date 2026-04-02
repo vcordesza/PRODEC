@@ -1,0 +1,23 @@
+.Index {
+    color: #e61057;
+    font-family: 'Arial';
+    font-size: 14px;
+    font-weight: bold;
+}
+
+a {
+    color: #f57d1a;
+    text-decoration: none; /* esto quita el subrayado */
+}
+
+a:hover {
+    color: #e61057; /* color cuando pasas el mouse encima */
+}
+
+a:visited {
+    color: #f57d1a; /* mismo color aunque ya lo hayan visitado */
+}
+
+a:visited:hover {
+    color: #e61057; /* rosa cuando pasen el mouse sobre un link ya visitado */
+}
